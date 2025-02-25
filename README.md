@@ -8,8 +8,8 @@
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone <repo-url>
-cd <project-directory>
+git clone <https://github.com/SangharshSeth/caching-server>
+cd <caching-server>
 ```
 
 ## Usage
